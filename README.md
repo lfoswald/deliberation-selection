@@ -1,4 +1,5 @@
 # Examining Online Deliberation with URL Tracking Data
+https://osf.io/preprints/socarxiv/yfmzh/
 
 This repository consists of the following R scripts:
 
